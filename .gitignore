@@ -1,0 +1,6 @@
+*.iml
+.idea/
+*/target/
+tentacle-server/src/main/resources/movie/*
+*.sqlite
+dependency-reduced-pom.xml
